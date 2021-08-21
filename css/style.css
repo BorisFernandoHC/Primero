@@ -1,7 +1,29 @@
 body{
     color: brown;
+    margin: 0;
+    box-sizing: border-box;
     text-align: center;
     font-family: Arial;
+}
+header{
+    display: flex;
+    color: lightslategray;
+    box-shadow: 0 3px 3px rgb(0 0 0/5%);
+    height: 90px;
+    justify-content: space-around;
+    padding: 0 32px 0 32px;
+}
+nav{
+    display: flex;
+    align-items: center;
+}
+nav>ul{
+    display: flex;
+    padding: 0;
+}
+nav li{
+    list-style: none;
+    padding: 0 8px 0 8px;
 }
 h1{
     color: blue;
