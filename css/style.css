@@ -1,11 +1,11 @@
 body{
-    color: blueviolet;
+    color: brown;
     text-align: center;
     font-family: Arial;
 }
 h1{
     color: blue;
 }
-.parts{
-    color: brown;
+p{
+    color: black;
 }
