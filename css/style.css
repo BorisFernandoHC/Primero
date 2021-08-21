@@ -1,5 +1,11 @@
 body{
-    color: aquamarine;
+    color: blueviolet;
     text-align: center;
     font-family: Arial;
+}
+h1{
+    color: blue;
+}
+.parts{
+    color: brown;
 }
